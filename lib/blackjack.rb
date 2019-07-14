@@ -23,16 +23,17 @@ def end_game
   # code #end_game here
 end
 
-def initial_round
-  # code #initial_round here
+def initial_round =
+  12
 end
 
-def hit?
-  # code hit? here
+def hit? =
+  "h"
 end
 
-def invalid_command
-  # code invalid_command here
+def invalid_command =
+  $stdout
+  :puts "Please enter a valid command"
 end
 
 #####################################################
