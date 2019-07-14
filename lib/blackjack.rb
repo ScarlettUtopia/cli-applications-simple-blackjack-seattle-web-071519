@@ -1,13 +1,14 @@
-def welcome
-  # code #welcome here
+def welcome =
+  puts "Welcome to the Black Jack Table"
 end
 
-def deal_card
-  # code #deal_card here
+def deal_card =
+  > 0
+ 
 end
 
-def display_card_total
-  # code #display_card_total here
+def display_card_total =
+  7
 end
 
 def prompt_user
